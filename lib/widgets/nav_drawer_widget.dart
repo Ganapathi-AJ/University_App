@@ -14,7 +14,7 @@ class NavigationDrawerWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final name = 'Pic of the Month';
-    final email = 'IG: ajayprince_03';
+    final email = 'IG: ajaystechie';
     final urlImage =
         'https://images.unsplash.com/photo-1641750875717-8c98badfd9a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80';
 
